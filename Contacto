@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Anna Bella - Contactos</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="estilo.css">
+    </head>
+    <body>
+        <div id="principal">
+           
+            <img src=" c:\Users\pc\Documents\AulasLedaBernardo\Projecto CSS3\imagem\capa.png">
+           <div id="menu">
+               <a href="index.html">HOME |</a>
+               <a href="biografia.html">BIOGRAFIA |</a>
+               <a href="campanhas publicitarias.html">CAMPANHAS PUBLICITÁRIAS |</a>
+               <a href="contacto.html">CONTACTO</a>
+           </div>
+           <div id="conteudo"><!--inicio do conteudo-->
+            <h1>Contactos</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+            <img src="c:\Users\pc\Documents\AulasLedaBernardo\Projecto CSS3\imagem\foto1.png" class="img-campanha">
+
+           
+
+            <p><strong>e-mail:</strong>contacto@annabella.com.br</p>
+            <p><strong>telefone:</strong>(11)9978-6589</p>
+           </div>
+           
+        </div><!--fim do conteudo-->
+        <div>
+            <h4 class="centralizar">Todos os direitos reservados</h4>
+        </div>
+    </body>
+</html>
